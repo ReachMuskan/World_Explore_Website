@@ -29,4 +29,24 @@ Axios
 🚀 Deployment
 
 The project is deployed on Netlify:
-👉 Live Demo
+👉 countryexplorebymuskan.netlify.app
+
+📦 Installation & Setup
+# Clone the repo
+git clone https://github.com/ReachMuskan/World_Explore_Website.git
+
+# Navigate into the project
+cd World_Explore_Website
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+
+👩‍💻 Author
+
+Muskan Gusain
+🔗Github: https://github.com/ReachMuskan
+Linkdin: https://www.linkedin.com/in/muskan-gusain-b30933289 
